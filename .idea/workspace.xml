@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f3608d4-7ec8-4e39-840a-2437f9f7d606" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1OTFiSbjTsNtO5ofZnGLMjZkqjZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace128/siamese-new" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="siamese-v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f3608d4-7ec8-4e39-840a-2437f9f7d606" name="Default Changelist" comment="" />
+      <created>1560275029492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560275029492</updated>
+      <workItem from="1560275031199" duration="7530000" />
+      <workItem from="1560333513587" duration="16841000" />
+      <workItem from="1560434533949" duration="7152000" />
+      <workItem from="1560522213897" duration="3970000" />
+      <workItem from="1560546468501" duration="3567000" />
+      <workItem from="1560606102952" duration="2066000" />
+      <workItem from="1560790309732" duration="261000" />
+      <workItem from="1560794851203" duration="1363000" />
+      <workItem from="1560797430728" duration="689000" />
+      <workItem from="1560865540190" duration="441000" />
+      <workItem from="1560867438265" duration="1281000" />
+      <workItem from="1561043421112" duration="10000" />
+      <workItem from="1562168349262" duration="1325000" />
+      <workItem from="1562184525922" duration="1022000" />
+      <workItem from="1562185722849" duration="444000" />
+      <workItem from="1562233360027" duration="1283000" />
+      <workItem from="1562270075458" duration="1217000" />
+      <workItem from="1562319356078" duration="1256000" />
+      <workItem from="1562358170960" duration="240000" />
+      <workItem from="1562358637476" duration="1404000" />
+      <workItem from="1562696848390" duration="855000" />
+      <workItem from="1562702738547" duration="1173000" />
+      <workItem from="1562769324445" duration="3927000" />
+      <workItem from="1562856709433" duration="3350000" />
+      <workItem from="1562961745756" duration="1216000" />
+      <workItem from="1563054332807" duration="1242000" />
+      <workItem from="1563202622295" duration="3283000" />
+      <workItem from="1563224178651" duration="798000" />
+      <workItem from="1563292026129" duration="8303000" />
+      <workItem from="1563307977989" duration="783000" />
+      <workItem from="1563372701174" duration="2149000" />
+      <workItem from="1563399056614" duration="943000" />
+      <workItem from="1563566982470" duration="599000" />
+      <workItem from="1563803684769" duration="2109000" />
+      <workItem from="1563988754673" duration="1383000" />
+      <workItem from="1563993825094" duration="569000" />
+      <workItem from="1564069162992" duration="599000" />
+      <workItem from="1565104777340" duration="6696000" />
+      <workItem from="1565364987374" duration="1307000" />
+      <workItem from="1565700840551" duration="2705000" />
+      <workItem from="1565892284656" duration="763000" />
+      <workItem from="1565893170283" duration="92000" />
+      <workItem from="1565893458420" duration="98000" />
+      <workItem from="1565944811885" duration="687000" />
+      <workItem from="1566223243059" duration="433000" />
+      <workItem from="1566223692716" duration="7224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/siamese_v2$main.coverage" NAME="main Coverage Results" MODIFIED="1560438798395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/siam$main.coverage" NAME="main Coverage Results" MODIFIED="1565702946300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/siamese_v3_sota$main.coverage" NAME="main Coverage Results" MODIFIED="1562185532632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/siamese_sota_v2$main.coverage" NAME="main Coverage Results" MODIFIED="1563224351739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/siamese_v3$main.coverage" NAME="main Coverage Results" MODIFIED="1560608366868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/siamese_sota$main.coverage" NAME="main Coverage Results" MODIFIED="1562185740885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
