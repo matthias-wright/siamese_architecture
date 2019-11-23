@@ -11,7 +11,7 @@ The implementation of the siamese architecture that I developed for my [master's
 ## Example
 
 <p align="center">
-  <img src="img/example.png" width="200px" title="Example">
+  <img src="img/example.png" width="500px" title="Example">
 </p>
 
 ## Instructions
