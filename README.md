@@ -1,5 +1,5 @@
 # A Siamese Architecture for Neural Style Transfer
-The implementation of the siamese architecture that I developed for my [master's thesis](https://matthias-wright.github.io/files/ma_thesis.pdf).
+The implementation of the siamese architecture that I developed for my master's thesis.
 
 ## Dependencies
 * Python 3.5.2+
